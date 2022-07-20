@@ -1,5 +1,7 @@
 # Part 2： アプリケーションの作り方
 
+* 下記は講座(https://dokugaku-engineer.com/course/serverside)から引用
+
 ## 目的
 
 * プログラムの作り方を学ぶ
